@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/yashodhalakshana/altium-library.svg)](http://hits.dwyl.io/yashodhalakshana/altium-library)
 
 # Altium Designer Libraries
 ## References
